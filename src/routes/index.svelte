@@ -20,6 +20,10 @@
 		});
 </script>
 
+<svelte:head>
+	<title>Rich Presence Manager</title>
+</svelte:head>
+
 <div class="text-center mx-auto justify-center my-10">
 	<div class="mb-4">
 		<h1 class="font-bold text-4xl">Discord Rich Presence Updater</h1>
